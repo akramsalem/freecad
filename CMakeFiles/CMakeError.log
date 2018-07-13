@@ -1,0 +1,19 @@
+Determining if the include file GL/gl.h exists failed with the following output:
+Change Dir: /home/akram/Bureau/ExplorysConvertorAutomated/free-cad-code/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_defd4/fast"
+/usr/bin/make -f CMakeFiles/cmTC_defd4.dir/build.make CMakeFiles/cmTC_defd4.dir/build
+make[1] : on entre dans le répertoire « /home/akram/Bureau/ExplorysConvertorAutomated/free-cad-code/CMakeFiles/CMakeTmp »
+Building C object CMakeFiles/cmTC_defd4.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_defd4.dir/CheckIncludeFile.c.o   -c /home/akram/Bureau/ExplorysConvertorAutomated/free-cad-code/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/akram/Bureau/ExplorysConvertorAutomated/free-cad-code/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: GL/gl.h: Aucun fichier ou dossier de ce type
+ #include <GL/gl.h>
+          ^~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_defd4.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_defd4.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_defd4.dir/CheckIncludeFile.c.o] Error 1
+make[1] : on quitte le répertoire « /home/akram/Bureau/ExplorysConvertorAutomated/free-cad-code/CMakeFiles/CMakeTmp »
+Makefile:126: recipe for target 'cmTC_defd4/fast' failed
+make: *** [cmTC_defd4/fast] Error 2
+
+

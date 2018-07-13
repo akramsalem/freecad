@@ -1,0 +1,5 @@
+/** \defgroup FEM Fem
+ *  \ingroup CWORKBENCHES 
+ *  \brief Finite Elements Analysis workbench
+ */
+
