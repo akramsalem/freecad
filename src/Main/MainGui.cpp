@@ -58,14 +58,9 @@
 
 void PrintInitHelp(void);
 
-const char sBanner[] = "\xc2\xa9 Juergen Riegel, Werner Mayer, Yorik van Havre 2001-2018\n"\
-"  #####                 ####  ###   ####  \n" \
-"  #                    #      # #   #   # \n" \
-"  #     ##  #### ####  #     #   #  #   # \n" \
-"  ####  # # #  # #  #  #     #####  #   # \n" \
-"  #     #   #### ####  #    #     # #   # \n" \
-"  #     #   #    #     #    #     # #   #  ##  ##  ##\n" \
-"  #     #   #### ####   ### #     # ####   ##  ##  ##\n\n" ;
+const char sBanner[] = "(c) Juergen Riegel, Werner Mayer, Yorik van Havre 2001-2018\n"\
+                       "Digit-Prime Update 2018\n"
+                       "Explorys Project\n";
 
 #if defined(_MSC_VER)
 void InitMiniDumpWriter(const std::string&);
