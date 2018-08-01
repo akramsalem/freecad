@@ -54,13 +54,8 @@ using Base::Console;
 using App::Application;
 
 const char sBanner[] = "(c) Juergen Riegel, Werner Mayer, Yorik van Havre 2001-2018\n"\
-                       "  #####                 ####  ###   ####  \n" \
-                       "  #                    #      # #   #   # \n" \
-                       "  #     ##  #### ####  #     #   #  #   # \n" \
-                       "  ####  # # #  # #  #  #     #####  #   # \n" \
-                       "  #     #   #### ####  #    #     # #   # \n" \
-                       "  #     #   #    #     #    #     # #   #  ##  ##  ##\n" \
-                       "  #     #   #### ####   ### #     # ####   ##  ##  ##\n\n" ;
+                       "Digit-Prime Update 2018\n"
+                       "Explorys Project\n";
 
 
 
